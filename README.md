@@ -32,11 +32,11 @@ A Blue Horizon_JAVA é uma aplicação desenvolvida em Java utilizando o framewo
 - Jakarta Validation
 
 ###Endpoints Principais
-/api/animals: Endpoints para gestão de espécies marinhas.
-/api/clientes: Endpoints para gestão de clientes.
-/api/organizacoes: Endpoints para gestão de organizações.
-/api/ia: Endpoints para gestão de sistemas de IA.
-/api/registros: Endpoints para registro e gerenciamento de atividades de pesca.
+- /api/animals: Endpoints para gestão de espécies marinhas.
+- /api/clientes: Endpoints para gestão de clientes.
+- /api/organizacoes: Endpoints para gestão de organizações.
+- /api/ia: Endpoints para gestão de sistemas de IA.
+- /api/registros: Endpoints para registro e gerenciamento de atividades de pesca.
 
 ###Como Executar
 Clone o repositório:
